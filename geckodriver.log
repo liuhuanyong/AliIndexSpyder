@@ -1,0 +1,13 @@
+1527600873583	geckodriver	INFO	geckodriver 0.19.0
+1527600873586	geckodriver	INFO	Listening on 127.0.0.1:59619
+1527600874708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3vKM1DXQWPIf"
+1527600882081	geckodriver	INFO	geckodriver 0.19.0
+1527600882084	geckodriver	INFO	Listening on 127.0.0.1:41699
+1527600883182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.U3xafX1ERhMQ"
+1527600886448	Marionette	INFO	Listening on port 33645
+1527600886494	Marionette	WARN	TLS certificate errors will be ignored for this session
+MESA-LOADER: could not get parent device
+MESA-LOADER: could not get parent device
+MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource:///modules/ContentWebRTC.jsm, line 259: TypeError: aContentWindow.pendingPeerConnectionRequests is undefined

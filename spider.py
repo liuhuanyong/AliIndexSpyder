@@ -23,8 +23,6 @@ class AliIndex:
         e2 = driver.find_element_by_id('alizs-submit')
         e2.click()
         page_source = driver.page_source
-        import time
-        time.sleep(200)
         driver.close()
         return page_source
 
