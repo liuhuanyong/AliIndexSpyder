@@ -1,7 +1,5 @@
 # AliIndexSpyder
 self complemented AlindexSpyder based on Selenium ，阿里商品指数抓取，包括淘宝采购指数，淘宝供应指数，1688供应指数。
-# AliIndexSpyder
-self complemented AlindexSpyder based on Selenium ，阿里商品指数抓取，包括淘宝采购指数，淘宝供应指数，1688供应指数。
 
 # 项目介绍
 1、阿里指数 是了解电子商务平台市场动向的数据分析平台，2012年11月26日，阿里指数正式上线。根据阿里巴巴网站每日运营的基本数据包括每天网站浏览量、每天浏览的人次、每天新增供求产品数、新增公司数和产品数这5项指标统计计算得出。  
